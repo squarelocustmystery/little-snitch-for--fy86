@@ -1,4 +1,4 @@
-# 
+# custom Little Snitch for macOS Addon | password-audit + system-optimization is the best Little Snitch for macOS addon, featuring password-audit and system-optimization. Secure,
 
 
 
